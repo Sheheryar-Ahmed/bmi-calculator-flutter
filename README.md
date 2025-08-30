@@ -15,8 +15,10 @@ This project was completed as part of [Angela Yu's Flutter Development Bootcamp]
 
 Here are the screenshots of the app running:
 
-![App Screenshot](./screenshot1.png) 
-![App Screenshot](./screenshot2.png) 
+<p float="left">
+  <img src="./screenshot1.png" alt="App Screenshot" width="300"/>
+  <img src="./screenshot2.png" alt="App Screenshot" width="300"/>
+</p>
 
 ## Getting Started
 
