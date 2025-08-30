@@ -45,7 +45,6 @@ outputs/
 **/.symlinks/
 profile
 xcuserdata
-*.xcworkspace
 
 # Web
 lib/generated_plugin_registrant.dart
